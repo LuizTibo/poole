@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://luiztibo.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Luiz Tibo
+  url:               http://luiztibo.github.io
+  email:             luiz@tibo.com.br
 
 # Custom vars
 version:             2.0.0
